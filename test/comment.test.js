@@ -22,5 +22,6 @@ describe('测试获取评论是否正常', () => {
       .catch((err) => {
         done(err)
       })
+
   })
 })
